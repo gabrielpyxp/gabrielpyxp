@@ -16,11 +16,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FFFF&color:FFF)](mailto:gabrieldealmeidarocha482@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color:FFF)](https://www.linkedin.com/in/gabriel-de-almeida-993b5b312/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FFFF&color:FFF)](https://www.instagram.com/__gabriel_z/?__pwa=1)
-
 #
 
 <div style="text-align: center;" align="center">
@@ -32,7 +27,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-###
+###<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FFFF&color:FFF)](mailto:gabrieldealmeidarocha482@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&color:FFF)](https://www.linkedin.com/in/gabriel-de-almeida-993b5b312/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FFFF&color:FFF)](https://www.instagram.com/__gabriel_z/?__pwa=1)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
