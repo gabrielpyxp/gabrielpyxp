@@ -6,9 +6,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
-<p align="left">Estudante de Engenharia de Software na Uniceplac. Atualmente estudo Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
-
 <p align="left">Estudante de Engenharia de Software na Uniceplac. Atualmente estudo Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
 
 ###
